@@ -1,8 +1,8 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[UEFI Foot Flow & Overview]
-## <span class="brick"   >UEFI & EDK II Training</span>
+## <span class="gold"   >UEFI & EDK II Training</span>
 
-#### <span class="gold"> UEFI and Platform Initialization (PI) Boot Flow & Overview </span>
+#### UEFI and Platform Initialization (PI) Boot Flow & Overview 
 
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
@@ -53,8 +53,8 @@ Note:
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[UEFI Boot Flow Section]
-#### <span class="gold"  >UEFI Boot Execution Flow </span>
-<span style="font-size:0.75em" > Starting at the processor reset vector </span>
+#### <span class="brick"  >&nbsp;&nbsp;&nbsp;UEFI Boot Execution Flow </span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;Starting at the processor reset vector </span>
 ---
 
 @title[UEFI Boot Flow]
@@ -525,7 +525,7 @@ UEFI is not available until after a reset
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[Intel FSP Section]
-#### <p align="center"><span class="gold">The Intel® Firmware Support Package <BR> (Intel® FSP)
+#### <p align="center"><span class="brick">The Intel® Firmware Support Package <BR> (Intel® FSP)
 </span>
 Note:
 Section on Intel FSP
@@ -640,7 +640,7 @@ Talking point – anyone would could be producer.  IBV could.  Just worry about 
 
 ---?image=assets/images/binary-strings-black2.jpg  
 @title[Whats New in UEFI Section]    
-#### <p align="center"><span class="gold">What's new in the UEFI Specifications </span> </p>
+#### <p align="center"><span class="brick">What's new in the UEFI Specifications </span> </p>
 ---  
 @title[UEFI Spec pic]    
 #### <p align="center"><span class="gold">Latest Specifications </span> </p>
